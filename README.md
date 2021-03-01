@@ -1,6 +1,8 @@
-# <img src="https://komarev.com/ghpvc/?username=artificial-friend&label=Hello%20user%20%E2%84%96&color=0e75b6&style=flat" alt="artificial-friend" /> 👋
+#  Hello, traveler! 👋
+<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=artificial-friend&label=This%20is%20the%20view%20%E2%84%96&color=00c405&style=flat" alt="artificial-friend" /> </p>
 
-:briefcase: I use <img width="26px" src="https://simpleicons.org/icons/intellijidea.svg" /> and <img width="26px" src="https://simpleicons.org/icons/firefoxbrowser.svg" />
+I use <img width="26px" src="https://simpleicons.org/icons/intellijidea.svg" /> and <img width="26px" src="https://simpleicons.org/icons/firefoxbrowser.svg" />
 
 <br />
 
