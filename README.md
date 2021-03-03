@@ -2,7 +2,7 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artificial-friend&label=This%20is%20the%20view%20%E2%84%96&color=00c405&style=flat" alt="artificial-friend" /> </p>
 
-I use <img width="26px" src="https://simpleicons.org/icons/intellijidea.svg" /> and <img width="26px" src="https://simpleicons.org/icons/firefoxbrowser.svg" />
+I use <img width="26px" src="https://simpleicons.org/icons/intellijidea.svg" /> and <img width="26px" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" />
 
 <br />
 
@@ -13,7 +13,7 @@ I use <img width="26px" src="https://simpleicons.org/icons/intellijidea.svg" /> 
 
 ### Connect with me:
 
-[<img align="left" alt="Artificial-Friend | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Artificial-Friend | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Artificial-Friend | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 
 <br />
