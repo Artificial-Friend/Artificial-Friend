@@ -13,14 +13,12 @@ I use <img width="26px" src="https://simpleicons.org/icons/intellijidea.svg" /> 
 
 ### Connect with me:
 
-[<img align="left" alt="Artificial-Friend | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Artificial-Friend | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 
 <br />
 <br />
 
 [codewars]: https://www.codewars.com/users/Artificial_Friend
-[linkedin]: https://www.linkedin.com/in/oleksii-m/
 
 
 
